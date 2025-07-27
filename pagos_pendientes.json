@@ -1,0 +1,90 @@
+{
+    "b37dacaf-5379-469b-9607-52f14e9effc7": {
+        "user_id": "8148468413",
+        "username": "Ghost Working",
+        "amount": 20.0,
+        "method": "bizum",
+        "status": "pending_confirmation",
+        "timestamp": "2025-07-23T19:47:42+00:00"
+    },
+    "94dc1dca-9046-4e6f-a0ef-316afe588cde": {
+        "user_id": "5003857557",
+        "username": "ghostwork25",
+        "amount": 1.0,
+        "method": "bizum",
+        "status": "approved",
+        "timestamp": "2025-07-26T19:34:25+00:00",
+        "proof": "Listo"
+    },
+    "c0bb91ed-3b81-41ae-9aa1-a6269b31b31a": {
+        "user_id": "5003857557",
+        "username": "ghostwork25",
+        "amount": 1.0,
+        "method": "bizum",
+        "status": "approved",
+        "timestamp": "2025-07-26T19:55:48+00:00",
+        "proof": "Listo"
+    },
+    "95d0b4e4-cb5b-4d11-8334-d2b1201f6c68": {
+        "user_id": "5003857557",
+        "username": "ghostwork25",
+        "amount": 1.0,
+        "method": "bizum",
+        "status": "awaiting_admin_review",
+        "timestamp": "2025-07-26T20:01:38+00:00",
+        "proof": "Listo"
+    },
+    "86064b11-e4b6-4163-be31-098f4ac668b0": {
+        "user_id": "5003857557",
+        "username": "ghostwork25",
+        "amount": 1.0,
+        "method": "bizum",
+        "status": "awaiting_admin_review",
+        "timestamp": "2025-07-26T20:07:19+00:00",
+        "proof": "Listo"
+    },
+    "800bebd5-f11f-4acd-8a14-f640b3bdf216": {
+        "user_id": "6408331268",
+        "username": "Brenda \ud83e\udd8b",
+        "amount": 2.0,
+        "method": "bizum",
+        "status": "approved",
+        "timestamp": "2025-07-26T20:21:19+00:00",
+        "proof": "Listo"
+    },
+    "37ff7a18-fe26-4821-9f2b-68a08c9ab890": {
+        "user_id": "1400957330",
+        "username": "LamF",
+        "amount": 30.5,
+        "method": "paypal",
+        "status": "pending_confirmation",
+        "timestamp": "2025-07-26T21:35:34+00:00"
+    },
+    "7c8032ba-3c3e-4312-b013-45e5a98365f7": {
+        "user_id": "1400957330",
+        "username": "LamF",
+        "amount": 5.0,
+        "method": "paypal",
+        "status": "approved",
+        "timestamp": "2025-07-26T21:37:56+00:00",
+        "proof": "Listo"
+    },
+    "4faa9fc3-15f1-483f-a3a8-61a636c82d2a": {
+        "user_id": "5003857557",
+        "username": "ghostwork25",
+        "amount": 10.0,
+        "method": "bizum",
+        "status": "approved",
+        "timestamp": "2025-07-26T23:06:59+00:00",
+        "proof": "Listo"
+    },
+    "c76e13e5-480d-47ba-b603-f79b2b9ac11b": {
+        "user_id": "5003857557",
+        "username": "ghostwork25",
+        "amount": 10.0,
+        "method": "paypal",
+        "status": "approved",
+        "timestamp": "2025-07-27T01:25:21+00:00",
+        "proof": "Listo"
+    }
+}
